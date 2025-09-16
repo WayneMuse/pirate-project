@@ -21,4 +21,3 @@ scale = Vector2(6, 6)
 shape = SubResource("RectangleShape2D_pc1m6")
 
 [node name="Camera2D" type="Camera2D" parent="PlayerShip"]
-zoom = Vector2(0.44, 0.44)
